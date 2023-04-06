@@ -2,6 +2,7 @@
     background: #090909;
     width: 100%;
     height: 92vh;
+    overflow-x: hidden;
 }
 
 /* area 1*/
