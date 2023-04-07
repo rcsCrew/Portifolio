@@ -48,6 +48,10 @@
     margin-right: 250px;
 }
 
+ativar{
+    display: flex;
+}
+
 .dados2 h1{
     padding-top: 100px;
     font-weight: 700;
@@ -56,7 +60,7 @@
     text-align: center; 
     color: #f4f4f4;  
     line-height: 60px;
-    background: yellow;
+    
 }
 
 .dados2 h2{
@@ -66,7 +70,7 @@
     text-align: center; 
     line-height: 20px;
     color: #06FFB2;;  
-    background: blue;
+    
 
 }
 
@@ -76,5 +80,5 @@
     color: #f4f4f4;
     width: 900px;
     text-align: center;
-    background: red;
+    
 }

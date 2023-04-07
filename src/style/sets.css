@@ -27,7 +27,7 @@
     width: 1px;
     height: 100%;
     background: #ffffff;
-    margin-right: 150px;
+    margin-right: 0px;
 }
 
 .cor-2 {
@@ -44,18 +44,15 @@ a {
 
 
 
-.animar {
+
+  .animar0{
     opacity: 0;
-    transform: translateY(20px);
-    transition: opacity 0.5s ease, transform 0.5s ease;
   }
-  
-  .animar.visible {
+  .animar1{
     opacity: 1;
-    transform: translateY(0);
     animation: subir 1s ease;
   }
-  
+    
   @keyframes subir {
     0% {
       transform: translateY(200px);
@@ -66,4 +63,4 @@ a {
       opacity: 1;
     }
   }
-  
+
