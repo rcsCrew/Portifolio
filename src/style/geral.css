@@ -52,27 +52,29 @@
     padding-top: 100px;
     font-weight: 700;
     font-size: 55px;
-    padding-left: 20%;
+    padding-left: 0%;
     text-align: center; 
     color: #f4f4f4;  
     line-height: 60px;
+    background: yellow;
 }
 
 .dados2 h2{
     font-size: 25px;
     font-weight: 500;
-    padding-left: 20%;
+    padding-left: 0%;
     text-align: center; 
     line-height: 20px;
     color: #06FFB2;;  
+    background: blue;
 
 }
 
 .dados2 h3{
     padding-top: 50px;
-    margin-left: 10%;
     font-weight: 500;
     color: #f4f4f4;
     width: 900px;
     text-align: center;
+    background: red;
 }
