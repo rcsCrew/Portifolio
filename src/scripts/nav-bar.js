@@ -39,3 +39,4 @@ window.addEventListener('scroll', () => {
     scroll.classList.add('animar0');
   }
 })
+
