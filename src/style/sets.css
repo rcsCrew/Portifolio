@@ -53,6 +53,7 @@ a {
 
   .animar0{
     opacity: 0;
+    animation: 1s ease;
   }
   .animar1{
     opacity: 1;
@@ -69,4 +70,7 @@ a {
       opacity: 1;
     }
   }
+
+
+
 

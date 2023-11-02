@@ -11,12 +11,13 @@
     display: flex;
     align-items: center;
     
+    
     margin-left: 15vh;
     font-family: "Josefin Sans", sans-serif;
     font-weight: 700;
 }
 .apresentacao h1{
-    font-size: 20px;    
+    font-size: 25px;    
 }
 
 .apresentacao h2{
@@ -29,7 +30,7 @@
 .img-code{
     display: flex;
     margin-left: 20%;
-    width: 50%;
+    width: 55%;
 }
 
 /* area 2 */
@@ -49,6 +50,9 @@
 }
 
 ativar{
+    display: flex;
+}
+ativar2{
     display: flex;
 }
 
@@ -80,6 +84,9 @@ ativar{
     color: #f4f4f4;
     width: 900px;
     text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size: 1.50rem;
     
 }
 .dados3 {
@@ -114,9 +121,8 @@ ativar{
     color: #f4f4f4;
     width: 950px;
     text-align: center;
-    
+    font-size: 2rem;
     margin-bottom: 10px;
-    
 }
 .dados4 {
     background: rgb(40, 40, 40);
@@ -147,6 +153,7 @@ ativar{
 .dados4 h3{
     padding-top: 50px;
     font-weight: 500;
+    font-size: 2rem;
     color: #f4f4f4;
     width: 920px;
     margin-left: 40%;
@@ -157,14 +164,16 @@ ativar{
 .dados3 h4{
     width: 80%;
     margin-left: 10%;
-    margin-right: 10%;
+    margin-right: 20%;
     text-align: center ;
     color: #f4f4f4;
     font-weight: 400;
+    font-size: 1.60rem;
 }
 .dados4 h4{
     width: 80%;
     margin-left: 10%;
+    font-size: 1.6rem;
     margin-right: 10%;
     text-align: center ;
     color: #f4f4f4;
@@ -235,4 +244,25 @@ ativar{
 .lIN{
     
     margin-left: -15px;
+}
+
+/* skils */
+.container-skills{
+    width: 100%;
+    height: 50vh    ;
+    background: rgb(40, 40, 40);
+}
+
+.container-skills .lin3{
+    position: absolute;
+    margin-left: 46.9%;
+    width: 1px;
+    height: 50%;
+    background: white;
+}
+
+.copy {
+    position: absolute; 
+    width: 100%;
+    margin-left: -11%;
 }
